@@ -20,4 +20,5 @@ Alternatively you can run a batch job with
 <code>
 sbatch SLURM_hello_mpi_world.sh
 </code>
+
 after editing the script and adjsuting it to your cluster environment.
