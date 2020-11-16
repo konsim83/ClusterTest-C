@@ -1,6 +1,8 @@
 # ClusterTest-C
 
-Mini test written in C to test MPI and cluster environment
+*Mini test written in C to test MPI and cluster environment*
+
+### Compile and run
 
 To compile you must have a MPI library available. Type
 
